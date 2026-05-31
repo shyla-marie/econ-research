@@ -3,7 +3,7 @@
 ## A Dynamic Macroeconomic Analysis On Technological Innovation, Labor Automation, and the Road to Post-Labor Economics: A Theoretical Foundation for Post-Labor Economic Research
 File: [Post-Labor_Economics-Dynamic_Macroeconomic_Theory-2025-04-06.pdf](https://github.com/shyla-marie/econ-research/blob/main/papers/Post-Labor_Economics-Dynamic_Macroeconomic_Theory-2025-04-06.pdf) <br>
 
-Author: **Shyla Marie A.**  <br>
+**Shyla Marie A.**  <br>
 
 April 6, 2025 <br>
 
@@ -19,7 +19,7 @@ literature on AI-driven productivity, labor substitution, and digital deflation,
 ## Dual-Rail Monetary Architecture, Deterrence, and the Digital Reserve Currency Fork
 File: [USCBDC_Monetary_Theory-2025-12-15.pdf](https://github.com/shyla-marie/econ-research/blob/main/papers/USCBDC_Monetary_Theory.pdf) <br>
 
-Author: **Shyla Marie A.** <br>
+**Shyla Marie A.** <br>
 
 December 15, 2025 <br>
 
