@@ -1,4 +1,4 @@
-# Economic Research Papers
+# Economics Research Papers
 
 ## A Dynamic Macroeconomic Analysis On Technological Innovation, Labor Automation, and the Road to Post-Labor Economics: A Theoretical Foundation for Post-Labor Economic Research
 File: [Post-Labor_Economics-Dynamic_Macroeconomic_Theory-2025-04-06.pdf](https://github.com/shyla-marie/econ-research/blob/main/papers/Post-Labor_Economics-Dynamic_Macroeconomic_Theory-2025-04-06.pdf) <br>
@@ -14,11 +14,7 @@ literature on AI-driven productivity, labor substitution, and digital deflation,
 
 **Keywords: Technological Innovation, Labor Automation, Post-Labor Economics.** <br>
 
-<br>
-
 ---
-
-<br>
 
 ## Dual-Rail Monetary Architecture, Deterrence, and the Digital Reserve Currency Fork
 File: [USCBDC_Monetary_Theory-2025-12-15.pdf](https://github.com/shyla-marie/econ-research/blob/main/papers/USCBDC_Monetary_Theory.pdf) <br>
