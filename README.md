@@ -1,9 +1,20 @@
 # Economic Theory Papers
 
+## A Dynamic Macroeconomic Analysis On Technological Innovation, Labor Automation, and the Road to Post-Labor Economics: A Theoretical Foundation for Post-Labor Economic Research
+File: Post-Labor_Economics-Dynamic_Macroeconomic_Theory-2025-04-06.PDF <br>
+
+Citation: <br>
+
+Author: **Shyla Marie A.**  <br>
+
+April 6, 2025
+
+### Abstract
+
 ## Dual-Rail Monetary Architecture, Deterrence, and the Digital Reserve Currency Fork
 File: USCBDC_Monetary_Theory.pdf
 
-**Shyla Marie A.**
+Author: **Shyla Marie A.**
 
 December 15, 2025
 
